@@ -1,7 +1,7 @@
 # WilhelmBK
 
 **Group members:**
-- Wilhelm Brøbech Krins, rlv709
+- Wilhelm Brøbech Krings, rlv709
 
 This repository contains  
 1. Inaugural project. 
