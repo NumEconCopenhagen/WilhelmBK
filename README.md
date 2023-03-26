@@ -1,4 +1,4 @@
-# \[WilhelmBK\]
+# WilhelmBK
 
 **Group members:**
 - Wilhelm Brøbech Krins, rlv709
